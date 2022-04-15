@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nav_react/static/css/main.2a2d2523.css",
+    "main.js": "/nav_react/static/js/main.40f08a08.js",
+    "index.html": "/nav_react/index.html",
+    "main.2a2d2523.css.map": "/nav_react/static/css/main.2a2d2523.css.map",
+    "main.40f08a08.js.map": "/nav_react/static/js/main.40f08a08.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a2d2523.css",
+    "static/js/main.40f08a08.js"
+  ]
+}
